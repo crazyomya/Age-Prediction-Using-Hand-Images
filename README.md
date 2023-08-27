@@ -1,5 +1,3 @@
-Certainly, here's a revised README content:
-
 # Age Prediction Using Hand Images
 
 This project introduces a novel method for predicting human age groups by analyzing images of hands. By extracting distinct features from hand images, it enables accurate age group classification, even without facial data. The model classifies individuals into three age groups: young, adult, and old, based on texture-based features from hand images.
